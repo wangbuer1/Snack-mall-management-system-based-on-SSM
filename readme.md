@@ -1,10 +1,11 @@
-# 基于SSM的零食商城管理系统
+# 基于SSM的零食商城管理系统4
 
 ## 获取方式
 
 关注公众号： **程序员王不二**，回复关键词  ：**商城**，获取完整版源码
 
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
+
 
 ## 1、项目介绍
 
@@ -33,47 +34,37 @@
 
 ### 4.1 登录
 
-![后台管理员登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206190921625.jpg)
+![后台管理员登录](https://www.codeshop.fun/Typora-Images/202206190921625.jpg)
 
 ### 4.2 前端模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206190921915.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202206190921915.jpg)
 
-![宝贝详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206190921304.jpg)
+![宝贝详情](https://www.codeshop.fun/Typora-Images/202206190921304.jpg)
 
-![购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206190921068.jpg)
+![购物车](https://www.codeshop.fun/Typora-Images/202206190921068.jpg)
 
 ### 4.3 用户模块
 
-![用户-订单中心](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206190921082.jpg)
+![用户-订单中心](https://www.codeshop.fun/Typora-Images/202206190921082.jpg)
 
 ![用户-订单详情](C:\Users\wangbuer\Desktop\临时\视频+截图\用户-订单中心.jpg)
 
-![用户-历史订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206190922234.jpg)
+![用户-历史订单](https://www.codeshop.fun/Typora-Images/202206190922234.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-商品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206190922767.jpg)
+![管理员-商品管理](https://www.codeshop.fun/Typora-Images/202206190922767.jpg)
 
-![管理员-上传商品信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206190922719.jpg)
+![管理员-上传商品信息](https://www.codeshop.fun/Typora-Images/202206190922719.jpg)
 
-![管理员-订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206190922820.jpg)
+![管理员-订单管理](https://www.codeshop.fun/Typora-Images/202206190922820.jpg)
 
-![管理员-图表管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206190922083.jpg)
+![管理员-图表管理](https://www.codeshop.fun/Typora-Images/202206190922083.jpg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206190922530.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202206190922530.jpg)
 
-![管理员-员工管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206190922400.jpg)
+![管理员-员工管理](https://www.codeshop.fun/Typora-Images/202206190922400.jpg)
 
-## 5、视频演示
-
-[点击播放视频，视频位于文章最后](输入链接)
-
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词：**商城**
-
-
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+)
 
